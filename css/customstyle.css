@@ -1,0 +1,61 @@
+﻿.footerlinks, .nav-link {
+    color: #1d2521;
+    text-decoration: none;
+}
+
+.footerlinks:hover {
+    color: #f1f3f2;
+}
+
+    .nav-link:hover {
+        color: #f1f3f2;
+    }
+
+
+
+
+.button-w {
+    width: 100%;
+}
+
+.home {
+    color: black;
+    overflow: hidden;
+    position: relative;
+    background-color: #1D2521;
+}
+
+
+.demo-bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+h5, h2, h3, h4,h1 {
+    color: #069c54;
+}
+
+h2{
+    font-weight:800;
+}
+
+
+.maindes {
+    color: #f1f3f2;
+}
+
+.des {
+    color: #c7d1cc;
+}
+
+.footer-dark{
+    background-color: #069c54;
+    padding-top: 1em;
+}
+
+.nav-header {
+    background-color: #069c54;
+}
